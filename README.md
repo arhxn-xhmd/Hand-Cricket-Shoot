@@ -16,7 +16,6 @@ A text-based cricket game written in Python where you act as the team captain an
 
 ## Files 📄
 
-- `main.py`: Main game script.
 - `User Info.txt`: Stores player name, ID, and password.
 - `User Team.txt`: Stores selected team and captain name.
 - `User Money.txt`: Tracks player's virtual money.
